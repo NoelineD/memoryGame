@@ -5,7 +5,7 @@
  * Afpa DWWM Créteil novembre 2019
  */
 body {
-    background: #009999;
+    background: #A0BEDA;
 }
 h1 {
   font-size: 1.5em;
@@ -48,7 +48,7 @@ li {
   outline: solid;
   width: 130px;
   height: 130px;
-  background-image: url('../images/dos.jpg');
+  background-image: url('../images/questionmark.png');
   background-repeat: no-repeat;
   background-size: 100%;
 }

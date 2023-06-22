@@ -80,7 +80,7 @@ function jouer() {
 function chargePaires(tab, paire) {
 
     for (let numImg = 1; numImg <= 8; numImg++) {
-        let urlImg = `images/paires${paire}/${numImg}.jpg`;
+        let urlImg = `images/paires${paire}/${numImg}.jpg` ;
         tab[numImg - 1] = urlImg;
         tab[numImg - 1 + 8] = urlImg;
     }
